@@ -1,6 +1,9 @@
+package com.aseprojali.template.main;
 
 
 
+
+import com.aseprojali.template.view.MainFrame;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;

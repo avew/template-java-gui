@@ -1,6 +1,9 @@
+package com.aseprojali.template.view;
 
 
 
+
+import com.aseprojali.template.internalframe.MasterPelanggan;
 import java.beans.PropertyVetoException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -15,7 +18,7 @@ import java.util.logging.Logger;
  * @author AsepRojali
  */
 public class MainFrame extends javax.swing.JFrame {
-    public MasterPelanggan ifp;
+   public MasterPelanggan ifp;
 
     /**
      * Creates new form MainFrame
